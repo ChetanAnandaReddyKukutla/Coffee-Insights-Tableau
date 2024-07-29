@@ -23,7 +23,7 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 ## License
 This project is licensed under the MIT License.
 ## Contact
-For any questions or feedback, please reach out via GitHub Issues or contact karnati Sai Aditya at chetananandareddykukutla@gmail.com.
+For any questions or feedback, please reach out via GitHub Issues or contact me at chetananandareddykukutla@gmail.com.
 ---
 
 *Happy Analyzing!*
