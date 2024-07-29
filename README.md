@@ -2,6 +2,10 @@
 
 ## Overview
 This project leverages Tableau to create a visually appealing and insightful dashboard based on coffee sales data. The dashboard provides comprehensive analysis on sales trends, market dynamics, and product performance, using a coffee-themed color palette for enhanced visual appeal.
+
+## Project link
+https://public.tableau.com/app/profile/chetan.kukutla/viz/shared/98B25XW3D
+
 ## Features
 - **Sales and Profit Overview**: Bar chart comparing total sales and profit across different coffee products.
 - **Market Analysis**: Heat map visualizing sales and profit distribution across states and markets.
